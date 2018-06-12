@@ -1,0 +1,24 @@
+body {
+    background-color: #000000;
+}
+
+div {
+    color: #95a5a6;
+    vertical-align: 50%;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 300%;
+}
+
+.current-time {
+    font-size: 60%; 
+}
+
+.prayer-times {
+    color: #ffffff;
+    font-size: 60%;
+}
+
+.prayer-timetable {
+    color: #ffffff;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Islamic Essentials",
+  "description": "Override the new tab page with a blank one",
+  "version": "0.2",
+  "incognito": "split",
+  "chrome_url_overrides": {
+    "newtab": "./src/essentials.html"
+  },
+  "manifest_version": 2,
+  "permissions": [
+    "file:///Users/mahmudhussain/learning/chrome-extension/islam_essentials/src/hod.json"
+  ]
+}
